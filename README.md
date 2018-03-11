@@ -1,2 +1,2 @@
-# workflow_app
-simple web app to manage your projects and workflow
+# React_Chat_App
+A simple chat app using React.js and socket.io
