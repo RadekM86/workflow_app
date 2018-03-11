@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-
+import NewForm from './components/NewForm.js'
 
 
 class App extends React.Component{
@@ -14,6 +14,7 @@ class App extends React.Component{
 
         return <div>
             <h1>it works!</h1>
+            <NewForm />
             </div>
     }
 }
