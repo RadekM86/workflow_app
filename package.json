@@ -1,5 +1,5 @@
 {
-  "name": "le_chat_app",
+  "name": "react_dashboard",
   "version": "1.0.0",
   "description": "## Basic config to start working with ES6 and React",
   "main": "webpack.config.js",
@@ -28,6 +28,7 @@
     "css-loader": "^0.28.5",
     "extract-text-webpack-plugin": "^3.0.0",
     "file-loader": "^0.11.2",
+    "jsdoc": "^3.5.5",
     "node-sass": "^4.5.3",
     "react": "^15.6.2",
     "react-dom": "^15.6.2",
@@ -46,7 +47,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RadekM86/ReactGame.git"
+    "url": "git+https://github.com/RadekM86/React_Slideshow.git"
   },
   "bugs": {
     "url": "https://github.com/RadekM86/ReactGame/issues"

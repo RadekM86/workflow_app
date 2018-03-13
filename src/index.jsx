@@ -1,22 +1,18 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import NewForm from './components/NewForm.js'
+import io from 'socket.io-client';
 
 
 class App extends React.Component{
     constructor(props){
         super(props);
-        this.state={
-            name: true
-        }
     }
-     render(){
-
-        return <div>
-            <h1>it works!</h1>
-            <NewForm />
-            </div>
-    }
+   
+       render(){
+          return <div>
+                <h1>works</h1>
+              </div>
+      }
 }
 
 
